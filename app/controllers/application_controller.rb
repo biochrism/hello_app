@@ -8,7 +8,7 @@ class ApplicationController < ActionController::Base
   def goodbye
     render html:
 
-      "Existing software...<br>kaboom elimination"
+      "Implementing global solutions..."
 
 
 
