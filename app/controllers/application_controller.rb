@@ -8,10 +8,7 @@ class ApplicationController < ActionController::Base
   def goodbye
     render html:
 
-      "Implementing global solutions..."
       "Hola munod"
-
-
 
   end
 
