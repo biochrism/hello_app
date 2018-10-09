@@ -9,6 +9,7 @@ class ApplicationController < ActionController::Base
     render html:
 
       "Implementing global solutions..."
+      "Hola munod"
 
 
 
